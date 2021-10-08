@@ -1,7 +1,7 @@
 ## ALMI_CAT: A Pipline of Parallel Imputation for Large-Scale Dataset
 
 
-The data we used for illustration is called `sample_data.csv` and `dict.csv`. They both are included in this repository.
+The data used for illustration is called `sample_data.csv` and `dict.csv`. They both are included in this repository.
 
 To analyze the data you will need to install some `R` packages. The required packages can be installed using `R` commands.
 
