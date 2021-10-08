@@ -1,4 +1,4 @@
-## ALMI_CAT: A Pipline of Parallel Imputation for Large-Scale Dataset
+## ALMI_CAT: Imputation for Large-Scale Association Testing Automated Pipline
 
 
 The data we used for illustration is called `sample_data.csv`, with its dictionary file `dict.csv`. They are both included in this repository.
